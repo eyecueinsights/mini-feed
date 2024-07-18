@@ -1,2 +1,1 @@
-# feed-mini
-Feed Mini Mock API
+# Mini Feed Mock API
