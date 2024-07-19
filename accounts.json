@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "id": "476f3d0d-bfa8-467c-aefc-9e8f4cd3fe36",
+      "name": "theordinary",
+      "displayName": "The Ordinary"
+    },
+    {
+      "id": "8507b857-bab8-48be-847c-0f7dcfffb227",
+      "name": "guerlain",
+      "displayName": "Guerlain"
+    },
+    {
+      "id": "90b2514d-8574-43af-b49f-0f023006dfbe",
+      "name": "kiehls",
+      "displayName": "Kiehl's Since 1851"
+    },
+    {
+      "id": "b271907e-3e89-4974-9496-cf4272dd2add",
+      "name": "diorbeauty",
+      "displayName": "Dior Beauty Official"
+    },
+    {
+      "id": "b5ad011b-5091-495d-a68a-e1e05a8c9583",
+      "name": "clinique",
+      "displayName": "Clinique"
+    }
+  ]
+}
